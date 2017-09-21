@@ -2,3 +2,6 @@ I want to Write a Pluggable Framework with Qt!
 Do not Modify this file!
 2017-9-21 20:20:14
 Add  a line here!
+
+2017-9-21 20:27:32
+modify something to this file£¡
